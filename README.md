@@ -1,2 +1,2 @@
-# website-template
-This is my Basic setup for any website till august 24
+# NotResponsive
+I focused on implentation of js in this project.
